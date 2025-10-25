@@ -1,0 +1,1 @@
+# solveyga-qa_guru_22_python_15_pytest
